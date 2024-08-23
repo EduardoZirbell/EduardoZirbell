@@ -1,7 +1,21 @@
-## Bem-vindo(a) ao meu perfil 😁
+## Bem-vindo(a) ao meu perfil!
+
+<br>
+
 <li>
- Teste
+ Seja muito bem vindo ao meu perfil, meu nome é Eduardo.
 </li>
+<li>
+ Estou no quarto semestre de Sistemas de Informação na Furb.
+</li>
+<li>
+ Atualmente sou QA Engineer, mas também já fui QA Junior e Jovem Aprendiz na área de Qualidade também.
+</li>
+<li>
+ Sou apaixonado por jogos e meu sonho ainda é criar um algum dia.
+</li>
+
+<br>
 
  <div>
   <a href="https://github.com/EduardoZirbell">
