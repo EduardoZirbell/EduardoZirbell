@@ -1,7 +1,5 @@
 ## Bem-vindo(a) ao meu perfil!
 
-<br>
-
 <li>
  Seja muito bem vindo ao meu perfil, meu nome é Eduardo.
 </li>
@@ -15,7 +13,7 @@
  Sou apaixonado por jogos e meu sonho ainda é criar um algum dia.
 </li>
 
-<br>
+- - -
 
  <div>
   <a href="https://github.com/EduardoZirbell">
