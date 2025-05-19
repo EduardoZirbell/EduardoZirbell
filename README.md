@@ -4,7 +4,7 @@
  Seja muito bem vindo ao meu perfil, meu nome é Eduardo.
 </li>
 <li>
- Estou no quarto semestre de Sistemas de Informação na Furb.
+ Estou no quinto semestre de Sistemas de Informação na Furb.
 </li>
 <li>
  Atualmente sou QA Engineer, mas também já fui QA Junior e Jovem Aprendiz na área de Qualidade também.
