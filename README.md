@@ -1,13 +1,13 @@
 ## Bem-vindo(a) ao meu perfil!
 
 <li>
- Seja muito bem vindo ao meu perfil, meu nome é Eduardo.
+ Seja muito bem vindo ao meu perfil, meu nome é Eduardo Zirbell.
 </li>
 <li>
- Estou no quinto semestre de Sistemas de Informação na Furb.
+ Estou no 6º semestre de Sistemas de Informação na Furb.
 </li>
 <li>
- Atualmente sou QA Engineer, mas também já fui QA Junior e Jovem Aprendiz na área de Qualidade também.
+ Atualmente sou QA Engineer na QAT Global.
 </li>
 <li>
  Sou apaixonado por jogos e meu sonho ainda é criar um algum dia.
@@ -15,17 +15,22 @@
 
 - - -
 
- <div>
-  <a href="https://github.com/EduardoZirbell">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoZirbell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoZirbell&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
- 
- <br>
- 
-<div> 
-  <a href="https://instagram.com/EduardoZirbell" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:eduardozirbell26@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eduardozirbell" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## 🚀 Tecnologias & Ferramentas
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
+![Node](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
+![SQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
+![Oracle](https://img.shields.io/badge/-Oracle%20Database-F80000?logo=oracle&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
+
+---
+
+## 📫 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardozirbell)  
+📧 **eduardozirbell26@gmail.com**
+
+---
+
