@@ -29,8 +29,8 @@
 ---
 
 ## 📫 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardozirbell)  
-📧 **eduardozirbell26@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=ligmailnkedin&logoColor=white)](https://www.linkedin.com/in/eduardozirbell)  
+[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?logo=ligmailnkedin&logoColor=white)](eduardozirbell26@gmail.com)
 
 ---
 
